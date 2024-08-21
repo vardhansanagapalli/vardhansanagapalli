@@ -176,7 +176,7 @@
 <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
 </a>
 
-<a target="_blank" href="https://www.instagram.com/vardhansans/?locale=kk-KZ&hl=af" target="_blank" style="display: inline-block;">
+<a target="_blank" href="https://www.instagram.com/vardhansans/" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
 </a>
 
