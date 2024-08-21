@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Highly motivated Data Scientist and Business Analyst with extensive experience<br>in data analysis, process mining, and full-stack development. <br>🕹️A track record of producing valuable insights from complex data. <br>⌨️ Proficient in Java, SQL, UI/UX and advanced data visualization tools. <br>🔋 Passionate about uncovering patterns to drive strategic decisions and improve business processes.
+💻 Highly motivated Data Scientist and Business Analyst with extensive experience in data analysis, process mining, and full-stack development. <br>🕹️A track record of producing valuable insights from complex data. <br>⌨️ Proficient in Java, SQL, UI/UX and advanced data visualization tools. <br>🔋 Passionate about uncovering patterns to drive strategic decisions and improve business processes.
 
 
 ## 🌐 Socials:
