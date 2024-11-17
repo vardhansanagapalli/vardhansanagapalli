@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: vardhansanagapalli/badge-readme@main
         with:       
           CREDLY_USER: <veda-vardhan-vu21csen0500072> 
