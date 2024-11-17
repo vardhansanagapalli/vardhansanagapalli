@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=vardhansanagapalli&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### GitHub Certifications 
-
+[![Foundations](./github-foundations.png)](https://www.credly.com/badges/4019d500-b4b6-4673-8698-0840fe1915e0/public_url)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vardhansanagapalli&limit=5&theme=dark&combine_all_yearly_contributions=true)
